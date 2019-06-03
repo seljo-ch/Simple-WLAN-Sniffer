@@ -59,7 +59,7 @@ usage() {
         echo "OPTIONS:"
         echo "  -h, help - this text"
         echo "  -b - Gets the Informations of the Tshark Output filtered by Beacons"
-        echo "  -p - Gets the Informations of the TShark Output filtered by "
+        echo "  -p - Gets the Informations of the TShark Output filtered by Mobile Device Probes"
 }
 
 ###############################
